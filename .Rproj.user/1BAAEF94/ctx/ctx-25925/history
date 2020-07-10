@@ -1,0 +1,8 @@
+source('~/.active-rstudio-document', echo=TRUE)
+source('~/.active-rstudio-document', echo=TRUE)
+source('~/.active-rstudio-document', echo=TRUE)
+install.packages("plyr")
+source('~/.active-rstudio-document', echo=TRUE)
+source('~/.active-rstudio-document', echo=TRUE)
+source('~/.active-rstudio-document', echo=TRUE)
+source('~/.active-rstudio-document', echo=TRUE)
